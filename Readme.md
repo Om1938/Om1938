@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/om1938/om1938/blob/main/resources/img/waving.gif">, I'm Om Prakash Das</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/om1938/om1938/blob/main/wave.gif">, I'm Om Prakash Das</h1>
 <h4 align="center">a preofeesional software developer currently based in Bengaluru, India. </h4>
 </div>
 
@@ -95,7 +95,15 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=om1938&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om1938&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om1938&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
 </details>
 
 ------
